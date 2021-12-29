@@ -1,0 +1,3 @@
+Bienvenidos al curso de git
+
+Mi nombre es Jorge Luis y tengo 33 años
